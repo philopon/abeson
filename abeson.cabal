@@ -1,6 +1,6 @@
 name:                abeson
 version:             0.1.0
-synopsis:            convert aeson and bson data type.
+synopsis:            interconversion between aeson and bson.
 -- description:
 license:             MIT
 license-file:        LICENSE
