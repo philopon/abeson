@@ -1,13 +1,13 @@
 name:                abeson
-version:             0.1.0
+version:             0.1.0.1
 synopsis:            interconversion between aeson and bson.
 -- description:
 license:             MIT
 license-file:        LICENSE
 author:              HirotomoMoriwaki<philopon.dependence@gmail.com>
 maintainer:          HirotomoMoriwaki<philopon.dependence@gmail.com>
-Homepage:            https://github.com/philopon/abson
-Bug-reports:         https://github.com/philopon/abson/issues
+Homepage:            https://github.com/philopon/abeson
+Bug-reports:         https://github.com/philopon/abeson/issues
 copyright:           (c) 2014 Hirotomo Moriwaki
 category:            Data
 build-type:          Simple
@@ -35,4 +35,4 @@ library
 
 source-repository head
   type:     git
-  location: git://github.com/philopon/abson.git
+  location: git://github.com/philopon/abeson.git
